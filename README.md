@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL: https://omkar9405.github.io/React-Login-Register/
 
 ## Available Scripts
 
